@@ -4,6 +4,8 @@
 let signInBtn = document.getElementById('sign-in-btn');
 let signUpBtn = document.getElementById('sign-up-btn');
 
+let outputEl = document.getElementById("answer");
+
 let members = loadmembers();
 
 // SIGN UP BTN CLICKED

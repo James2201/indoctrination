@@ -6,6 +6,8 @@ let signUpDiv = document.getElementById('sign-up-div');
 let signInLink = document.getElementById('sign-in-link');
 let signUpLink = document.getElementById('sign-up-link');
 
+let outputEl = document.getElementById("answer");
+
 // Sign In Link Clicked
 signInLink.addEventListener('click', displaySignIn);
 //do stuff
