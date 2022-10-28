@@ -8,6 +8,7 @@ let signUpLink = document.getElementById('sign-up-link');
 
 // Sign In Link Clicked
 signInLink.addEventListener('click', displaySignIn);
+//do stuff
 
 function displaySignIn() {
   signUpDiv.style.display = 'none';
