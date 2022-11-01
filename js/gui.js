@@ -22,5 +22,5 @@ signUpLink.addEventListener('click', displaySignUp);
 
 function displaySignUp() {
   signInDiv.style.display = 'none';
-  signUpDiv.style.display = 'block';
+  signUpDiv.style.display = 'block'; 
 }

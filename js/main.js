@@ -41,7 +41,7 @@ function newmember(signinusername, signinpassword){
     username: signinusername,
     password: signinpassword,
   } 
-}                                                                                                                                                                            
+}                                                                                                                                                                                
 
 //STORAGE FUNCTIONS
 
