@@ -23,7 +23,7 @@ function signUpHandler() {
       members.push(newmember(username, password))
       alert("Contact added")
     }        
-  }
+  }   
 }
 
 //SIGN IN PAGE 
